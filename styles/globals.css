@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+    --bg-header-grad-start: #213e3d;
+    --bg-header-grad-end: #477d77;
+    --bg-index-orange: #f5f5f5;
+    --bg-index-light-orange: #fad187;
+    --bg-index-light-green: #c2d1b5;
+    --bg-index-light-blue: #73a3a8;
+    --bg-index-dark-blue: #5393d8;
+    --text-heading: #2b423f;
+    --text-subheading: var(--bg-header-grad-end);
+    --text-normal-dark-gray: #333333;
+    --text-normal-light-gray: #f5f5f5;
+    --text-index-header: #ff7d47;
+    --text-table: #203230;
+    --bg-table-header: var(--text-heading);
+    --bg-table-footer: var(--text-subheading);
+    --bg-gallery-title: var(--text-index-header);
+    --bg-table-light-green: var(--bg-index-light-green);
+    --bg-footer: #343c3c;
+}
+
+#svg-icon:hover #inner-icon {
+    fill: #39605c;
+}
+
+#svg-icon:hover #Oval {
+    fill: #39605c;
+}
+
+#edit-pencil:hover #pencil-fill {
+    fill: #39605c;
+}
+
+#edit-pencil-image-card:hover #pencil-fill-image-card {
+    fill: #39605c;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+/* toastify-override-on-foxy-colors */
+.Toastify__progress-bar-theme--light {
+    background: #fff !important;
+}
+.Toastify__close-button--light {
+    color: #fff !important;
+    opacity: 1 !important;
+}
+.Toastify__toast-theme--light {
+    color: #fff !important;
+    background: #ff7d47 !important;
+}
+.Toastify__toast {
+    font-family: 'Poppins' !important;
+}
+/* toastify-override-on-foxy-colors */

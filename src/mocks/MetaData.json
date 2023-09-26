@@ -1,0 +1,2015 @@
+{
+    "id": "4f7cbff1-5ae8-430a-9bbd-ed5bf9b886c5",
+    "imageGroupId": "aa5dda96-2c0e-46bb-9428-f8df55c570f0",
+    "status": "completed",
+    "address": "2710S SOUTH 96TH EAST PLACE, TULSA, OK 74129-7034, USA",
+    "downloadUrl": "https://foxy-v2-media-prod.s3.us-east-1.amazonaws.com/7e34fe4a-dda4-40f3-9b48-82c8dad99f8e/2023-03-21/REPORT4f7cbff15ae8430a9bbded5bf9b886c5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWONLJKP2WV4OW4PW%2F20230321%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230321T231132Z&X-Amz-Expires=345600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCW6dF4zMAZvM5D5E3Jrc%2BrBoE9ti36ezRdfBam0qnlOgIgVQbRfcQcAmUDiBK%2Bj38sTHfoI9rnaQpigrOWM42G1qcqjwMIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgw0NDMyNzc3MjY3MDkiDGHDWUopLODs2nQuyCrjAlcdR8YvoO1o4696ECb%2B3qIpGTXd5EGhsO1g0Y5ilRXivlPRmPaNXqsX4rsyJ0wx2TGMYGOiITCwdmnzQ6u%2BclOBXTKALZRrR3XHtRUo0D3VUDvdNAdmNC7eQpDSDS4CYPU7%2Bl9NdZMXge%2FP8tp58rVN0df0MkYr8%2FI646%2F9kSpLTX3xqC%2FL9BBweuPovtvcfuLiVydsTTZX1NkjV6q%2FnuIZZ1Rhx56X82%2FdJ9eNiIlFKTVrRfubezGrKFLFhi0sQU68if2I7M0hCltHixsHmykHF%2FGvvltMlV%2F7t1SZR8X4xsTiD%2BZ6F3ydxwa7Zaq6pJqdqj0HG5PD%2F2ZqXfnbsFUpbUTroCjBfREQ6q8FdKaOP2AMAk7MAeLpSj5h7JdlSkhOLO3IZaFKZDo%2BRkC6f9wKXP8U%2BTL1bV8hSMHOB0I4rriH7E9rofDegwkweLCFsa6t7TRVx7oGjiUvp67zmznFmOAwkdbooAY6ngH6eXOMFPylfrlv7Ar95bCUOo1cA9XemnkKnOgMIlO3WlMaGABQKci2OGj5wsDpjgB62rZQoUb7N2VmboWm%2FEYWZVMlCvFg2v1vNKsaYjBZuCQDYv8niZrYmAxSGcODsjKbCzpgvJ9mNbTSyAr7oROGW8RlqIpvi08ndaZ1O5DsZdMW1tG%2FuoSHPG3340iLP9%2BCFl6Ew5tqV8xx40UgpA%3D%3D&X-Amz-Signature=54634c0872783e7982aa6020ef8f669c0485ab0273bf000f9e248866a6691fb3&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "avm": {
+        "status": "failed"
+    },
+    "property": {
+        "status": "completed",
+        "street": "2710 S 96TH EAST PL",
+        "city": "TULSA",
+        "baths": null,
+        "bedrooms": null,
+        "sqft": null,
+        "lotSize": null,
+        "yearBuilt": null,
+        "homeType": "HOME_TYPE_UNKNOWN"
+    },
+    "renovation": {
+        "status": "completed",
+        "subjectProperty": {
+            "address": "2710S S 96TH EAST PL",
+            "city": "TULSA",
+            "state": "OK",
+            "characteristics": {
+                "bedrooms": 1,
+                "fullBaths": 1,
+                "halfBaths": 0,
+                "stories": "1",
+                "yearBuilt": 0,
+                "totalLivingArea": 0,
+                "structureQuality": "5",
+                "basementSizeSF": 0,
+                "hasbasement": "nobasement",
+                "garageType": "attachedgarage",
+                "attachedGaragesNumberOfCars": "2",
+                "builtInGaragesNumberOfCars": "0",
+                "condition": "5",
+                "roofPitch": "Moderate"
+            }
+        },
+        "areas": [
+            {
+                "label": "Bathroom - Master",
+                "areaType": "MBTH",
+                "remodelProjects": [
+                    {
+                        "name": "Install New Angle Stops",
+                        "repairItems": [
+                            {
+                                "description": "Install new - valve - angle stop - good",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 77.3,
+                                "totalCost": 231.9,
+                                "itemXREF": 1017393,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 55.53
+                            }
+                        ],
+                        "projectSubTotal": 231.9,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Install New Diverter Valve",
+                        "repairItems": [
+                            {
+                                "description": "Install new - plumbing fixture - shower/tub - includes valve, trim kit and removal - does not include cutting for access - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 582.12,
+                                "totalCost": 582.12,
+                                "itemXREF": 1017470,
+                                "category": "Plumbing",
+                                "subCategory": "Faucets & Fixtures",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 311.36
+                            }
+                        ],
+                        "projectSubTotal": 582.12,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Remove Bathroom Vanity, Sinks & Faucets",
+                        "repairItems": [
+                            {
+                                "description": "Remove tear out existing vanity cabinet and top - includes sinks and faucets - demolition only",
+                                "itemUM": "LF",
+                                "quantity": 3,
+                                "ppu": 12.24,
+                                "totalCost": 36.72,
+                                "itemXREF": 1019299,
+                                "category": "Bathroom",
+                                "subCategory": "Vanities",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 36.72,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Baseboards - Paint Grade - 3 1/2\"",
+                        "repairItems": [
+                            {
+                                "description": "Remove molding - baseboard - per lf",
+                                "itemUM": "LF",
+                                "quantity": 26,
+                                "ppu": 0.31,
+                                "totalCost": 8.06,
+                                "itemXREF": 1017513,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - molding - baseboard - paint grade - up to 3 1/2\" - does not include paint",
+                                "itemUM": "LF",
+                                "quantity": 26,
+                                "ppu": 3.75,
+                                "totalCost": 97.5,
+                                "itemXREF": 1017504,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 46.54
+                            }
+                        ],
+                        "projectSubTotal": 105.56,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Bathroom Accessory Set",
+                        "repairItems": [
+                            {
+                                "description": "Install new - toilet paper holder - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 57.14,
+                                "totalCost": 57.14,
+                                "itemXREF": 1012970,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 41.13
+                            },
+                            {
+                                "description": "Install new - towel ring - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 60.71,
+                                "totalCost": 60.71,
+                                "itemXREF": 1011409,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 48.21
+                            },
+                            {
+                                "description": "Install new - towel bar - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 76.49,
+                                "totalCost": 76.49,
+                                "itemXREF": 1012969,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 55.1
+                            },
+                            {
+                                "description": "Install new - door clothes hanger hook - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 48.3,
+                                "totalCost": 48.3,
+                                "itemXREF": 1011405,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 35.87
+                            }
+                        ],
+                        "projectSubTotal": 242.64,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Bathroom Vanity, Sink and Faucet - 36\"",
+                        "repairItems": [
+                            {
+                                "description": "Install new - vanity - cabinet, top and sink - does not include faucet - 36\" - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 903.58,
+                                "totalCost": 903.58,
+                                "itemXREF": 1016074,
+                                "category": "Bathroom",
+                                "subCategory": "Vanities",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 669.6
+                            },
+                            {
+                                "description": "Install new - faucet - bathroom sink - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 241.66,
+                                "totalCost": 241.66,
+                                "itemXREF": 1017456,
+                                "category": "Plumbing",
+                                "subCategory": "Faucets & Fixtures",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 112.72
+                            },
+                            {
+                                "description": "Install new - water supply line - sink",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 29.57,
+                                "totalCost": 59.14,
+                                "itemXREF": 1017397,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 16.74
+                            },
+                            {
+                                "description": "Install new - sink drain - bathroom - pop-up assembly - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 85.45,
+                                "totalCost": 85.45,
+                                "itemXREF": 1017601,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 33.67
+                            },
+                            {
+                                "description": "Install new - sink drain - pea trap & waste lines",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 93.85,
+                                "totalCost": 93.85,
+                                "itemXREF": 1017434,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Vanities, Sinks and Faucets",
+                                "diyAmount": 32.9
+                            }
+                        ],
+                        "projectSubTotal": 1383.68,
+                        "projectItemCount": 5
+                    },
+                    {
+                        "name": "Replace Bathroom Vent Fan",
+                        "repairItems": [
+                            {
+                                "description": "Remove bathroom exhaust fan",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 54.12,
+                                "totalCost": 54.12,
+                                "itemXREF": 1018206,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - bathroom exhaust fan - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 196.01,
+                                "totalCost": 196.01,
+                                "itemXREF": 1018197,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 76.33
+                            }
+                        ],
+                        "projectSubTotal": 250.13,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Light Fixture - Wall Mount",
+                        "repairItems": [
+                            {
+                                "description": "Remove light fixture - medium",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 6.3,
+                                "totalCost": 6.3,
+                                "itemXREF": 1006850,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - light fixture - wall mount - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 100.4,
+                                "totalCost": 100.4,
+                                "itemXREF": 1004655,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 45.5
+                            }
+                        ],
+                        "projectSubTotal": 106.7,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Medicine Cabinet",
+                        "repairItems": [
+                            {
+                                "description": "Remove medicine cabinet",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 11.84,
+                                "totalCost": 11.84,
+                                "itemXREF": 1000595,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - medicine cabinet - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 155.24,
+                                "totalCost": 155.24,
+                                "itemXREF": 1000608,
+                                "category": "Bathroom",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Accessories",
+                                "diyAmount": 104.16
+                            }
+                        ],
+                        "projectSubTotal": 167.08,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Shower/Tub Combo - Ceramic Tile",
+                        "repairItems": [
+                            {
+                                "description": "Remove tile shower - per s.f.",
+                                "itemUM": "SF",
+                                "quantity": 90,
+                                "ppu": 2.33,
+                                "totalCost": 209.7,
+                                "itemXREF": 1000670,
+                                "category": "Bathroom",
+                                "subCategory": "Shower/Tub - Tile - Ceramic",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower/Tub Combo",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Remove standard tub - includes drain",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 256.08,
+                                "totalCost": 256.08,
+                                "itemXREF": 1000814,
+                                "category": "Bathroom",
+                                "subCategory": "Bathtubs Only",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower/Tub Combo",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - standard tub - includes drain - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 973.57,
+                                "totalCost": 973.57,
+                                "itemXREF": 1018202,
+                                "category": "Bathroom",
+                                "subCategory": "Bathtubs Only",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower/Tub Combo",
+                                "diyAmount": 563.06
+                            },
+                            {
+                                "description": "Install new - ceramic tile - shower walls - good",
+                                "itemUM": "SF",
+                                "quantity": 90,
+                                "ppu": 30.61,
+                                "totalCost": 2754.9,
+                                "itemXREF": 1015987,
+                                "category": "Bathroom",
+                                "subCategory": "Shower/Tub - Tile - Ceramic",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower/Tub Combo",
+                                "diyAmount": 527.4
+                            }
+                        ],
+                        "projectSubTotal": 4194.25,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Shower/Tub Enclosure - 2 Sliding Doors",
+                        "repairItems": [
+                            {
+                                "description": "Remove tub enclosure - 2 sliding doors",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 27.16,
+                                "totalCost": 27.16,
+                                "itemXREF": 1000778,
+                                "category": "Bathroom",
+                                "subCategory": "Shower/Tub - Door Enclosures",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower & Tub Door Enclosures",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - tub enclosure - 2 sliding doors - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 659.45,
+                                "totalCost": 659.45,
+                                "itemXREF": 1000799,
+                                "category": "Bathroom",
+                                "subCategory": "Shower/Tub - Door Enclosures",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Shower & Tub Door Enclosures",
+                                "diyAmount": 352.94
+                            }
+                        ],
+                        "projectSubTotal": 686.61,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Toilet",
+                        "repairItems": [
+                            {
+                                "description": "Remove toilet",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 39.41,
+                                "totalCost": 39.41,
+                                "itemXREF": 1005936,
+                                "category": "Plumbing",
+                                "subCategory": "Toilets",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Toilets",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - water supply line - toilet",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 31.78,
+                                "totalCost": 31.78,
+                                "itemXREF": 1005938,
+                                "category": "Plumbing",
+                                "subCategory": "Toilets",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Toilets",
+                                "diyAmount": 10.3
+                            },
+                            {
+                                "description": "Install new - toilet - includes new wax ring - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 518.43,
+                                "totalCost": 518.43,
+                                "itemXREF": 1005946,
+                                "category": "Plumbing",
+                                "subCategory": "Toilets",
+                                "projectGroupName": "Bathrooms",
+                                "projectSubGroupName": "Toilets",
+                                "diyAmount": 329.03
+                            }
+                        ],
+                        "projectSubTotal": 589.62,
+                        "projectItemCount": 3
+                    }
+                ],
+                "areaTotal": 8577.01,
+                "areaProjectCount": 12,
+                "areaProjectItemCount": 29,
+                "estimatedAreaMeasurements": [
+                    {
+                        "formulaXREF": "BASEBOARD",
+                        "formulaXREFValue": 26
+                    },
+                    {
+                        "formulaXREF": "CEILINGS",
+                        "formulaXREFValue": 40
+                    },
+                    {
+                        "formulaXREF": "FLOOR",
+                        "formulaXREFValue": 40
+                    },
+                    {
+                        "formulaXREF": "WALLS",
+                        "formulaXREFValue": 208
+                    }
+                ]
+            },
+            {
+                "label": "Bedroom - Master",
+                "areaType": "MBED",
+                "remodelProjects": [
+                    {
+                        "name": "Replace Baseboards - Paint Grade - 3 1/2\"",
+                        "repairItems": [
+                            {
+                                "description": "Remove molding - baseboard - per lf",
+                                "itemUM": "LF",
+                                "quantity": 50,
+                                "ppu": 0.31,
+                                "totalCost": 15.5,
+                                "itemXREF": 1017513,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - molding - baseboard - paint grade - up to 3 1/2\" - does not include paint",
+                                "itemUM": "LF",
+                                "quantity": 50,
+                                "ppu": 3.75,
+                                "totalCost": 187.5,
+                                "itemXREF": 1017504,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 89.5
+                            }
+                        ],
+                        "projectSubTotal": 203,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Flooring - Carpet",
+                        "repairItems": [
+                            {
+                                "description": "Remove carpet & pad",
+                                "itemUM": "SF",
+                                "quantity": 174,
+                                "ppu": 0.21,
+                                "totalCost": 36.54,
+                                "itemXREF": 1017713,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Remove tack strips",
+                                "itemUM": "LF",
+                                "quantity": 50,
+                                "ppu": 0.31,
+                                "totalCost": 15.5,
+                                "itemXREF": 1001159,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - tack strips - per LF",
+                                "itemUM": "LF",
+                                "quantity": 50,
+                                "ppu": 0.32,
+                                "totalCost": 16,
+                                "itemXREF": 1001221,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 6
+                            },
+                            {
+                                "description": "Install new - carpet pad - rebond - 3/8\" - 8 lb - does not include carpet - per SF",
+                                "itemUM": "SF",
+                                "quantity": 174,
+                                "ppu": 0.68,
+                                "totalCost": 118.32,
+                                "itemXREF": 1012820,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 93.96
+                            },
+                            {
+                                "description": "Material only - carpet - does not include install & pad - per SF - good",
+                                "itemUM": "SF",
+                                "quantity": 174,
+                                "ppu": 2.46,
+                                "totalCost": 428.04,
+                                "itemXREF": 1001160,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 372.36
+                            },
+                            {
+                                "description": "Labor only - install - carpet - in rooms - per SF",
+                                "itemUM": "SF",
+                                "quantity": 174,
+                                "ppu": 0.7,
+                                "totalCost": 121.8,
+                                "itemXREF": 1001208,
+                                "category": "Flooring",
+                                "subCategory": "Carpet - Components",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Carpet",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 736.2,
+                        "projectItemCount": 6
+                    },
+                    {
+                        "name": "Replace Light Fixture - Flush Mount",
+                        "repairItems": [
+                            {
+                                "description": "Remove light fixture - medium",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 6.3,
+                                "totalCost": 6.3,
+                                "itemXREF": 1006850,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - light fixture - flush mount - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 99.04,
+                                "totalCost": 99.04,
+                                "itemXREF": 1004639,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 36
+                            }
+                        ],
+                        "projectSubTotal": 105.34,
+                        "projectItemCount": 2
+                    }
+                ],
+                "areaTotal": 1044.54,
+                "areaProjectCount": 3,
+                "areaProjectItemCount": 10,
+                "estimatedAreaMeasurements": [
+                    {
+                        "formulaXREF": "BASEBOARD",
+                        "formulaXREFValue": 50
+                    },
+                    {
+                        "formulaXREF": "CEILINGS",
+                        "formulaXREFValue": 174
+                    },
+                    {
+                        "formulaXREF": "FLOOR",
+                        "formulaXREFValue": 174
+                    },
+                    {
+                        "formulaXREF": "WALLS",
+                        "formulaXREFValue": 400
+                    }
+                ]
+            },
+            {
+                "label": "Entire House",
+                "areaType": "EHSE",
+                "remodelProjects": [
+                    {
+                        "name": "Clean HVAC Ducts",
+                        "repairItems": [
+                            {
+                                "description": "Clean ductwork - clean & deodorize - per register/outlet - medium",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 22.45,
+                                "totalCost": 67.35,
+                                "itemXREF": 1001560,
+                                "category": "Cleaning - Interior",
+                                "subCategory": "HVAC",
+                                "projectGroupName": "HVAC",
+                                "projectSubGroupName": "Refresh",
+                                "diyAmount": 8.25
+                            }
+                        ],
+                        "projectSubTotal": 67.35,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Electrical Inspection",
+                        "repairItems": [
+                            {
+                                "description": "Electrical inspection",
+                                "itemUM": "M/C",
+                                "quantity": 1,
+                                "ppu": 227.98,
+                                "totalCost": 227.98,
+                                "itemXREF": 1017688,
+                                "category": "Inspections",
+                                "subCategory": "Inspections",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Service Call",
+                                "diyAmount": 10
+                            }
+                        ],
+                        "projectSubTotal": 227.98,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "HVAC Inspection",
+                        "repairItems": [
+                            {
+                                "description": "HVAC inspection",
+                                "itemUM": "M/C",
+                                "quantity": 1,
+                                "ppu": 138.05,
+                                "totalCost": 138.05,
+                                "itemXREF": 1017689,
+                                "category": "Inspections",
+                                "subCategory": "Inspections",
+                                "projectGroupName": "HVAC",
+                                "projectSubGroupName": "Refresh",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 138.05,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Labor Only – Installation Per Window – Retrofit – First Floor",
+                        "repairItems": [
+                            {
+                                "description": "Labor only - installation per window - retrofit - does not include repairs or patching - first floor",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 135.86,
+                                "totalCost": 271.72,
+                                "itemXREF": 1017841,
+                                "category": "Windows",
+                                "subCategory": "Sliders - XO & XOX",
+                                "projectGroupName": "Windows",
+                                "projectSubGroupName": "Labor Only",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 271.72,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Labor Only - Remove Window - to 25 SF",
+                        "repairItems": [
+                            {
+                                "description": "Remove window - to 25 s.f.",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 29.58,
+                                "totalCost": 59.16,
+                                "itemXREF": 1006733,
+                                "category": "Windows",
+                                "subCategory": "Removal",
+                                "projectGroupName": "Windows",
+                                "projectSubGroupName": "Labor Only",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 59.16,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Material Only - Windows – XO – 15 SF to 18 SF",
+                        "repairItems": [
+                            {
+                                "description": "Material only - XO window - 15 s.f. to 18 s.f. - good",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 542.66,
+                                "totalCost": 1085.32,
+                                "itemXREF": 1017886,
+                                "category": "Windows",
+                                "subCategory": "Sliders - XO & XOX",
+                                "projectGroupName": "Windows",
+                                "projectSubGroupName": "XO-XOX",
+                                "diyAmount": 943.76
+                            }
+                        ],
+                        "projectSubTotal": 1085.32,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Plumbing Inspection - Non-Intrusive",
+                        "repairItems": [
+                            {
+                                "description": "Plumbing inspection - non-intrusive",
+                                "itemUM": "M/C",
+                                "quantity": 1,
+                                "ppu": 257.88,
+                                "totalCost": 257.88,
+                                "itemXREF": 1017691,
+                                "category": "Inspections",
+                                "subCategory": "Inspections",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 257.88,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Remove & Reset Door Trim – One Side - Sliding Patio Door",
+                        "repairItems": [
+                            {
+                                "description": "Remove & reset molding - door trim - one side - sliding patio door - up to 8' wide - per opening",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 43.06,
+                                "totalCost": 43.06,
+                                "itemXREF": 1019434,
+                                "category": "Molding & Trim",
+                                "subCategory": "Window & Door Trim",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Sliding Patio",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 43.06,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Door Trim - Both Sides – Single Door  – Paint Grade - 2 ½",
+                        "repairItems": [
+                            {
+                                "description": "Install new - door trim - both sides - single door - paint grade - up to 2 1/2\" - per opening - does not include paint",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 104.36,
+                                "totalCost": 521.8,
+                                "itemXREF": 1019393,
+                                "category": "Molding & Trim",
+                                "subCategory": "Window & Door Trim",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 286.15
+                            },
+                            {
+                                "description": "Paint door trim - both sides - single door - per opening - 2 coats",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 34.47,
+                                "totalCost": 172.35,
+                                "itemXREF": 1019427,
+                                "category": "Painting - Interior",
+                                "subCategory": "Molding & Trim",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 49
+                            }
+                        ],
+                        "projectSubTotal": 694.15,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Door Trim – One Side – Sliding Patio Door – Paint Grade - 2 ½",
+                        "repairItems": [
+                            {
+                                "description": "Install new - door trim - one side - sliding patior door - up to 8' wide - paint grade - up to 2 1/2\" - per opening - does not include paint",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 67.55,
+                                "totalCost": 67.55,
+                                "itemXREF": 1019436,
+                                "category": "Molding & Trim",
+                                "subCategory": "Window & Door Trim",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Sliding Patio",
+                                "diyAmount": 37.03
+                            },
+                            {
+                                "description": "Paint door trim - one side - sliding patio door - up to 8' wide - per opening - 2 coats",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 21.47,
+                                "totalCost": 21.47,
+                                "itemXREF": 1019443,
+                                "category": "Painting - Interior",
+                                "subCategory": "Molding & Trim",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Sliding Patio",
+                                "diyAmount": 6.34
+                            }
+                        ],
+                        "projectSubTotal": 89.02,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Electrical Outlet - 110V",
+                        "repairItems": [
+                            {
+                                "description": "Install new - outlet - 110v - does not include wire or box - good",
+                                "itemUM": "EA",
+                                "quantity": 7,
+                                "ppu": 32.74,
+                                "totalCost": 229.18,
+                                "itemXREF": 1017157,
+                                "category": "Electrical",
+                                "subCategory": "Outlets and Switches",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Outlets & Switches",
+                                "diyAmount": 23.45
+                            }
+                        ],
+                        "projectSubTotal": 229.18,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Electrical Switch - Standard",
+                        "repairItems": [
+                            {
+                                "description": "Install new - switch - does not include wire or box - good",
+                                "itemUM": "EA",
+                                "quantity": 6,
+                                "ppu": 33.36,
+                                "totalCost": 200.16,
+                                "itemXREF": 1017149,
+                                "category": "Electrical",
+                                "subCategory": "Outlets and Switches",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Outlets & Switches",
+                                "diyAmount": 23.34
+                            }
+                        ],
+                        "projectSubTotal": 200.16,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Exterior Door - Single",
+                        "repairItems": [
+                            {
+                                "description": "Remove exterior door, jamb, threshold & trim",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 33.25,
+                                "totalCost": 33.25,
+                                "itemXREF": 1013830,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Exterior Doors - Hinged",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Exterior",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - exterior door including jamb - single - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 684.34,
+                                "totalCost": 684.34,
+                                "itemXREF": 1012027,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Exterior Doors - Hinged",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Exterior",
+                                "diyAmount": 311.55
+                            },
+                            {
+                                "description": "Install new - keylock knob - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 58.33,
+                                "totalCost": 58.33,
+                                "itemXREF": 1015966,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Hardware",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Exterior",
+                                "diyAmount": 26.6
+                            },
+                            {
+                                "description": "Install new - threshold - aluminum - 3'",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 63.72,
+                                "totalCost": 63.72,
+                                "itemXREF": 1011628,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Exterior",
+                                "diyAmount": 35.71
+                            }
+                        ],
+                        "projectSubTotal": 839.64,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Exterior Light - Wall Mounted",
+                        "repairItems": [
+                            {
+                                "description": "Remove light fixture - medium",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 6.3,
+                                "totalCost": 18.9,
+                                "itemXREF": 1017222,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Exterior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Exterior Lights",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - exterior light - wall mounted - good",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 90.86,
+                                "totalCost": 272.58,
+                                "itemXREF": 1017234,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Exterior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Exterior Lights",
+                                "diyAmount": 111.6
+                            }
+                        ],
+                        "projectSubTotal": 291.48,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Front Door - Single",
+                        "repairItems": [
+                            {
+                                "description": "Remove single front door, jamb, threshold & trim",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 38.77,
+                                "totalCost": 38.77,
+                                "itemXREF": 1002123,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Front Doors",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Front",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - front door including jamb - single - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 989.95,
+                                "totalCost": 989.95,
+                                "itemXREF": 1015799,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Front Doors",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Front",
+                                "diyAmount": 632.4
+                            },
+                            {
+                                "description": "Install new - double key deadbolt - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 82.93,
+                                "totalCost": 82.93,
+                                "itemXREF": 1015968,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Hardware",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Front",
+                                "diyAmount": 43.2
+                            },
+                            {
+                                "description": "Install new - threshold - wood - 3'",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 78.09,
+                                "totalCost": 78.09,
+                                "itemXREF": 1011630,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Front",
+                                "diyAmount": 43.25
+                            }
+                        ],
+                        "projectSubTotal": 1189.74,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Garage Door - 2 Car - Steel Sectional",
+                        "repairItems": [
+                            {
+                                "description": "Remove garage door - double car - sectional or solid slab - complete removal including door, tracks, springs and opener - does not include haul away",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 180.22,
+                                "totalCost": 180.22,
+                                "itemXREF": 1016142,
+                                "category": "Garage Doors",
+                                "subCategory": "Garage - Double Door",
+                                "projectGroupName": "Garage Items",
+                                "projectSubGroupName": "Garage Doors",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - garage door - double car - steel sectional - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 1808.54,
+                                "totalCost": 1808.54,
+                                "itemXREF": 1016150,
+                                "category": "Garage Doors",
+                                "subCategory": "Garage - Double Door",
+                                "projectGroupName": "Garage Items",
+                                "projectSubGroupName": "Garage Doors",
+                                "diyAmount": 1271.68
+                            },
+                            {
+                                "description": "Install new - garage door - opener w/remote - 1/2 hp chain driven",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 392.39,
+                                "totalCost": 392.39,
+                                "itemXREF": 1016156,
+                                "category": "Garage Doors",
+                                "subCategory": "Garage - Double Door",
+                                "projectGroupName": "Garage Items",
+                                "projectSubGroupName": "Garage Doors",
+                                "diyAmount": 210.18
+                            }
+                        ],
+                        "projectSubTotal": 2381.15,
+                        "projectItemCount": 3
+                    },
+                    {
+                        "name": "Replace HVAC Registers",
+                        "repairItems": [
+                            {
+                                "description": "Install new - registers - wall/ceiling - up to 8\" x 14\" - good",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 43.29,
+                                "totalCost": 129.87,
+                                "itemXREF": 1017344,
+                                "category": "HVAC",
+                                "subCategory": "Ductwork",
+                                "projectGroupName": "HVAC",
+                                "projectSubGroupName": "Refresh",
+                                "diyAmount": 87.33
+                            },
+                            {
+                                "description": "Install new - registers - return grill - with filter - up to 24\" x 30\" - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 81.34,
+                                "totalCost": 81.34,
+                                "itemXREF": 1017350,
+                                "category": "HVAC",
+                                "subCategory": "Ductwork",
+                                "projectGroupName": "HVAC",
+                                "projectSubGroupName": "Refresh",
+                                "diyAmount": 57.94
+                            }
+                        ],
+                        "projectSubTotal": 211.21,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace HVAC Thermostat",
+                        "repairItems": [
+                            {
+                                "description": "Install new - thermostat - heat & a/c - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 250.32,
+                                "totalCost": 250.32,
+                                "itemXREF": 1015532,
+                                "category": "HVAC",
+                                "subCategory": "Accessories",
+                                "projectGroupName": "HVAC",
+                                "projectSubGroupName": "Refresh",
+                                "diyAmount": 121.64
+                            }
+                        ],
+                        "projectSubTotal": 250.32,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Outlet or Switch Cover Plate - Single",
+                        "repairItems": [
+                            {
+                                "description": "Install new - outlet/switch - cover plate - single - good",
+                                "itemUM": "EA",
+                                "quantity": 13,
+                                "ppu": 6.62,
+                                "totalCost": 86.06,
+                                "itemXREF": 1017164,
+                                "category": "Electrical",
+                                "subCategory": "Outlets and Switches",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Outlets & Switches",
+                                "diyAmount": 53.43
+                            }
+                        ],
+                        "projectSubTotal": 86.06,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Passage Door - Single",
+                        "repairItems": [
+                            {
+                                "description": "Remove interior door, jamb & trim",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 14.06,
+                                "totalCost": 70.3,
+                                "itemXREF": 1013849,
+                                "category": "Doors - Interior",
+                                "subCategory": "Passage Doors",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - interior door including jamb - single - good",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 277.76,
+                                "totalCost": 1388.8,
+                                "itemXREF": 1015820,
+                                "category": "Doors - Interior",
+                                "subCategory": "Passage Doors",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 846.3
+                            },
+                            {
+                                "description": "Paint door & jamb to 36\" - both sides - 2 coats",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 54.91,
+                                "totalCost": 274.55,
+                                "itemXREF": 1019445,
+                                "category": "Painting - Interior",
+                                "subCategory": "Doors",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 70.7
+                            },
+                            {
+                                "description": "Install new - privacy knob - good",
+                                "itemUM": "EA",
+                                "quantity": 5,
+                                "ppu": 52.38,
+                                "totalCost": 261.9,
+                                "itemXREF": 1015960,
+                                "category": "Doors - Interior",
+                                "subCategory": "Hardware",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Interior",
+                                "diyAmount": 107.15
+                            }
+                        ],
+                        "projectSubTotal": 1995.55,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Roof - Asphalt Shingle - 3 Tab - Does Not Include Sheathing",
+                        "repairItems": [
+                            {
+                                "description": "Remove roof - asphalt shingle - single layer - per SF",
+                                "itemUM": "SF",
+                                "quantity": 532,
+                                "ppu": 0.42,
+                                "totalCost": 223.44,
+                                "itemXREF": 1006040,
+                                "category": "Roofing",
+                                "subCategory": "Asphalt Shingles",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Furnish dump bin - 30 c.y.",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 632.5,
+                                "totalCost": 632.5,
+                                "itemXREF": 1013340,
+                                "category": "Hauling & Debris Removal",
+                                "subCategory": "Hauling & Debris Removal",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 550
+                            },
+                            {
+                                "description": "Install new - roof - asphalt shingle - basic 3 Tab (25 - 40) year",
+                                "itemUM": "SF",
+                                "quantity": 532,
+                                "ppu": 2.95,
+                                "totalCost": 1569.4,
+                                "itemXREF": 1015539,
+                                "category": "Roofing",
+                                "subCategory": "Asphalt Shingles",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 1016.12
+                            },
+                            {
+                                "description": "Install new - roof vent - up to 6\" diameter - with t-top",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 167.22,
+                                "totalCost": 334.44,
+                                "itemXREF": 1015407,
+                                "category": "Roofing",
+                                "subCategory": "Flashing, Edging & Vents",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 111.6
+                            },
+                            {
+                                "description": "Install new - roof vent - up to 12\" diameter - with round cap and collar - non rotating",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 204.49,
+                                "totalCost": 204.49,
+                                "itemXREF": 1015408,
+                                "category": "Roofing",
+                                "subCategory": "Flashing, Edging & Vents",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 73.28
+                            },
+                            {
+                                "description": "Install new - vents-residential motorized spinner - 12\"",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 182.18,
+                                "totalCost": 182.18,
+                                "itemXREF": 1006094,
+                                "category": "Roofing",
+                                "subCategory": "Flashing, Edging & Vents",
+                                "projectGroupName": "Roofing",
+                                "projectSubGroupName": "Asphalt Shingle",
+                                "diyAmount": 62.1
+                            }
+                        ],
+                        "projectSubTotal": 3146.45,
+                        "projectItemCount": 6
+                    },
+                    {
+                        "name": "Replace Sliding Patio Door - 8'",
+                        "repairItems": [
+                            {
+                                "description": "Remove sliding patio doors - with jamb",
+                                "itemUM": "SET",
+                                "quantity": 1,
+                                "ppu": 72.5,
+                                "totalCost": 72.5,
+                                "itemXREF": 1014649,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Exterior Doors - Sliding",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Sliding Patio",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - sliding patio door - up to 8' - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 2277.76,
+                                "totalCost": 2277.76,
+                                "itemXREF": 1015778,
+                                "category": "Doors - Exterior",
+                                "subCategory": "Exterior Doors - Sliding",
+                                "projectGroupName": "Doors",
+                                "projectSubGroupName": "Sliding Patio",
+                                "diyAmount": 1413.6
+                            }
+                        ],
+                        "projectSubTotal": 2350.26,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Water Heater - Gas - 30 Gallon",
+                        "repairItems": [
+                            {
+                                "description": "Install new - gas supply line - coated flexible stainless steel - up to 4' - does not include remove & reset of appliance",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 54.29,
+                                "totalCost": 54.29,
+                                "itemXREF": 1017613,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Appliances",
+                                "projectSubGroupName": "Water Heaters",
+                                "diyAmount": 29.87
+                            },
+                            {
+                                "description": "Install new - water supply line - water heater",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 53.05,
+                                "totalCost": 106.1,
+                                "itemXREF": 1017403,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Appliances",
+                                "projectSubGroupName": "Water Heaters",
+                                "diyAmount": 40.18
+                            },
+                            {
+                                "description": "Drain, disconnect & haul away water heater - to 30 gallon",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 186.76,
+                                "totalCost": 186.76,
+                                "itemXREF": 1000298,
+                                "category": "Plumbing",
+                                "subCategory": "Water Heaters & Softeners",
+                                "projectGroupName": "Appliances",
+                                "projectSubGroupName": "Water Heaters",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - water heater - gas - 30 gallon - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 1064.74,
+                                "totalCost": 1064.74,
+                                "itemXREF": 1016940,
+                                "category": "Plumbing",
+                                "subCategory": "Water Heaters & Softeners",
+                                "projectGroupName": "Appliances",
+                                "projectSubGroupName": "Water Heaters",
+                                "diyAmount": 796
+                            }
+                        ],
+                        "projectSubTotal": 1411.89,
+                        "projectItemCount": 4
+                    }
+                ],
+                "areaTotal": 17516.78,
+                "areaProjectCount": 23,
+                "areaProjectItemCount": 47,
+                "estimatedAreaMeasurements": [
+                    {
+                        "formulaXREF": "BASEBOARD",
+                        "formulaXREFValue": 0
+                    },
+                    {
+                        "formulaXREF": "CEILINGS",
+                        "formulaXREFValue": 0
+                    },
+                    {
+                        "formulaXREF": "FLOOR",
+                        "formulaXREFValue": 0
+                    },
+                    {
+                        "formulaXREF": "WALLS",
+                        "formulaXREFValue": 0
+                    }
+                ]
+            },
+            {
+                "label": "Exterior Grounds",
+                "areaType": "HARD",
+                "remodelProjects": [],
+                "areaTotal": 0,
+                "areaProjectCount": 0,
+                "areaProjectItemCount": 0,
+                "estimatedAreaMeasurements": [
+                    {
+                        "formulaXREF": "BASEBOARD",
+                        "formulaXREFValue": 0
+                    }
+                ]
+            },
+            {
+                "label": "Kitchen",
+                "areaType": "KIT",
+                "remodelProjects": [
+                    {
+                        "name": "Remove Kitchen Cabinets",
+                        "repairItems": [
+                            {
+                                "description": "Remove cabinets - per lf",
+                                "itemUM": "LF",
+                                "quantity": 16,
+                                "ppu": 4.91,
+                                "totalCost": 78.56,
+                                "itemXREF": 1000908,
+                                "category": "Cabinets",
+                                "subCategory": "Cabinets - Ready Made",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Cabinets",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 78.56,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Angle Stops",
+                        "repairItems": [
+                            {
+                                "description": "Install new - valve - angle stop - good",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 77.3,
+                                "totalCost": 154.6,
+                                "itemXREF": 1017393,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 37.02
+                            }
+                        ],
+                        "projectSubTotal": 154.6,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Backsplash",
+                        "repairItems": [
+                            {
+                                "description": "Remove backsplash",
+                                "itemUM": "SF",
+                                "quantity": 14,
+                                "ppu": 3.16,
+                                "totalCost": 44.24,
+                                "itemXREF": 1017006,
+                                "category": "Counter Tops",
+                                "subCategory": "Backsplash",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - backsplash - good",
+                                "itemUM": "SF",
+                                "quantity": 14,
+                                "ppu": 29.3,
+                                "totalCost": 410.2,
+                                "itemXREF": 1013595,
+                                "category": "Counter Tops",
+                                "subCategory": "Backsplash",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 182.28
+                            }
+                        ],
+                        "projectSubTotal": 454.44,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Baseboards - Paint Grade - 3 1/2\"",
+                        "repairItems": [
+                            {
+                                "description": "Remove molding - baseboard - per lf",
+                                "itemUM": "LF",
+                                "quantity": 36,
+                                "ppu": 0.31,
+                                "totalCost": 11.16,
+                                "itemXREF": 1017513,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - molding - baseboard - paint grade - up to 3 1/2\" - does not include paint",
+                                "itemUM": "LF",
+                                "quantity": 36,
+                                "ppu": 3.75,
+                                "totalCost": 135,
+                                "itemXREF": 1017504,
+                                "category": "Molding & Trim",
+                                "subCategory": "Baseboards",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Baseboards",
+                                "diyAmount": 64.44
+                            }
+                        ],
+                        "projectSubTotal": 146.16,
+                        "projectItemCount": 2
+                    },
+                    {
+                        "name": "Replace Countertops - Granite Slab",
+                        "repairItems": [
+                            {
+                                "description": "Remove counter top - granite - per s.f.",
+                                "itemUM": "SF",
+                                "quantity": 16,
+                                "ppu": 3.16,
+                                "totalCost": 50.56,
+                                "itemXREF": 1001991,
+                                "category": "Counter Tops",
+                                "subCategory": "Granite",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - counter top - granite - slab - good",
+                                "itemUM": "SF",
+                                "quantity": 16,
+                                "ppu": 73.99,
+                                "totalCost": 1183.84,
+                                "itemXREF": 1013271,
+                                "category": "Counter Tops",
+                                "subCategory": "Granite",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 690.4
+                            },
+                            {
+                                "description": "Cut granite holes for faucet & vents",
+                                "itemUM": "EA",
+                                "quantity": 3,
+                                "ppu": 36.47,
+                                "totalCost": 109.41,
+                                "itemXREF": 1016807,
+                                "category": "Counter Tops",
+                                "subCategory": "Granite",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Cut granite for sink",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 149.95,
+                                "totalCost": 149.95,
+                                "itemXREF": 1001984,
+                                "category": "Counter Tops",
+                                "subCategory": "Granite",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Countertops",
+                                "diyAmount": 0
+                            }
+                        ],
+                        "projectSubTotal": 1493.76,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Flooring - Ceramic Tile - Kitchen",
+                        "repairItems": [
+                            {
+                                "description": "Remove ceramic tile floor - per s.f.",
+                                "itemUM": "SF",
+                                "quantity": 80,
+                                "ppu": 0.57,
+                                "totalCost": 45.6,
+                                "itemXREF": 1003227,
+                                "category": "Flooring",
+                                "subCategory": "Ceramic Tile",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Ceramic Tile",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Prep for new floor material - scrape/clean - medium",
+                                "itemUM": "SF",
+                                "quantity": 80,
+                                "ppu": 0.57,
+                                "totalCost": 45.6,
+                                "itemXREF": 1003235,
+                                "category": "Flooring",
+                                "subCategory": "Ceramic Tile",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Ceramic Tile",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - tile floor - ceramic - good",
+                                "itemUM": "SF",
+                                "quantity": 80,
+                                "ppu": 7.08,
+                                "totalCost": 566.4,
+                                "itemXREF": 1003239,
+                                "category": "Flooring",
+                                "subCategory": "Ceramic Tile",
+                                "projectGroupName": "Flooring",
+                                "projectSubGroupName": "Ceramic Tile",
+                                "diyAmount": 243.2
+                            }
+                        ],
+                        "projectSubTotal": 657.6,
+                        "projectItemCount": 3
+                    },
+                    {
+                        "name": "Replace Gas Supply Valve",
+                        "repairItems": [
+                            {
+                                "description": "Plumbing services - gas pressure test",
+                                "itemUM": "M/C",
+                                "quantity": 1,
+                                "ppu": 171.91,
+                                "totalCost": 171.91,
+                                "itemXREF": 1005927,
+                                "category": "Plumbing",
+                                "subCategory": "General Services",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - valve - gas shut-off - up to 1/2\" x 1/2\" - includes removal, replacement and test",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 76.19,
+                                "totalCost": 76.19,
+                                "itemXREF": 1017611,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 17.54
+                            },
+                            {
+                                "description": "Install new - gas supply line - coated flexible stainless steel - up to 4' - does not include remove & reset of appliance",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 54.29,
+                                "totalCost": 54.29,
+                                "itemXREF": 1017613,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Plumbing",
+                                "diyAmount": 29.87
+                            }
+                        ],
+                        "projectSubTotal": 302.39,
+                        "projectItemCount": 3
+                    },
+                    {
+                        "name": "Replace Kitchen Cabinets - Lowers",
+                        "repairItems": [
+                            {
+                                "description": "Install new - cabinets ready made - lower - good",
+                                "itemUM": "LF",
+                                "quantity": 8,
+                                "ppu": 229.34,
+                                "totalCost": 1834.72,
+                                "itemXREF": 1012907,
+                                "category": "Cabinets",
+                                "subCategory": "Cabinets - Ready Made",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Cabinets",
+                                "diyAmount": 1367.84
+                            }
+                        ],
+                        "projectSubTotal": 1834.72,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Kitchen Cabinets - Tall",
+                        "repairItems": [
+                            {
+                                "description": "Install new - cabinets ready made - tall - good",
+                                "itemUM": "LF",
+                                "quantity": 2,
+                                "ppu": 337.56,
+                                "totalCost": 675.12,
+                                "itemXREF": 1012908,
+                                "category": "Cabinets",
+                                "subCategory": "Cabinets - Ready Made",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Cabinets",
+                                "diyAmount": 520.6
+                            }
+                        ],
+                        "projectSubTotal": 675.12,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Kitchen Cabinets - Uppers",
+                        "repairItems": [
+                            {
+                                "description": "Install new - cabinets ready made - upper - good",
+                                "itemUM": "LF",
+                                "quantity": 6,
+                                "ppu": 184.96,
+                                "totalCost": 1109.76,
+                                "itemXREF": 1012906,
+                                "category": "Cabinets",
+                                "subCategory": "Cabinets - Ready Made",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Cabinets",
+                                "diyAmount": 765.6
+                            }
+                        ],
+                        "projectSubTotal": 1109.76,
+                        "projectItemCount": 1
+                    },
+                    {
+                        "name": "Replace Kitchen Faucet",
+                        "repairItems": [
+                            {
+                                "description": "Remove faucet - kitchen sink - per each",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 59.89,
+                                "totalCost": 59.89,
+                                "itemXREF": 1017774,
+                                "category": "Plumbing",
+                                "subCategory": "Faucets & Fixtures",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - faucet - kitchen sink - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 291.72,
+                                "totalCost": 291.72,
+                                "itemXREF": 1017437,
+                                "category": "Plumbing",
+                                "subCategory": "Faucets & Fixtures",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 156.24
+                            },
+                            {
+                                "description": "Install new - water supply line - sink",
+                                "itemUM": "EA",
+                                "quantity": 2,
+                                "ppu": 29.57,
+                                "totalCost": 59.14,
+                                "itemXREF": 1017397,
+                                "category": "Plumbing",
+                                "subCategory": "Valves & Supply Lines",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 16.74
+                            }
+                        ],
+                        "projectSubTotal": 410.75,
+                        "projectItemCount": 3
+                    },
+                    {
+                        "name": "Replace Kitchen Sink",
+                        "repairItems": [
+                            {
+                                "description": "Remove sink - kitchen sink only - does not include faucet - per each",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 64.85,
+                                "totalCost": 64.85,
+                                "itemXREF": 1018907,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - sink - kitchen - does not include faucet - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 590.11,
+                                "totalCost": 590.11,
+                                "itemXREF": 1018930,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 415.71
+                            },
+                            {
+                                "description": "Install new - sink drain - kitchen - drain basket & strainer - good",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 69.61,
+                                "totalCost": 69.61,
+                                "itemXREF": 1017596,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 28.09
+                            },
+                            {
+                                "description": "Install new - sink drain - pea trap & waste lines",
+                                "itemUM": "EA",
+                                "quantity": 1,
+                                "ppu": 93.85,
+                                "totalCost": 93.85,
+                                "itemXREF": 1017434,
+                                "category": "Plumbing",
+                                "subCategory": "Sinks - Kitchen & Bath",
+                                "projectGroupName": "Kitchens",
+                                "projectSubGroupName": "Faucets & Sinks",
+                                "diyAmount": 32.9
+                            }
+                        ],
+                        "projectSubTotal": 818.42,
+                        "projectItemCount": 4
+                    },
+                    {
+                        "name": "Replace Light Fixture - Recessed",
+                        "repairItems": [
+                            {
+                                "description": "Remove light fixture - recessed can light",
+                                "itemUM": "EA",
+                                "quantity": 4,
+                                "ppu": 15.38,
+                                "totalCost": 61.52,
+                                "itemXREF": 1018207,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 0
+                            },
+                            {
+                                "description": "Install new - light fixture - recessed - up to 6\" - good",
+                                "itemUM": "EA",
+                                "quantity": 4,
+                                "ppu": 141.26,
+                                "totalCost": 565.04,
+                                "itemXREF": 1004651,
+                                "category": "Lighting",
+                                "subCategory": "Light Fixtures - Interior",
+                                "projectGroupName": "Lighting & Electrical",
+                                "projectSubGroupName": "Interior Lights",
+                                "diyAmount": 257.6
+                            }
+                        ],
+                        "projectSubTotal": 626.56,
+                        "projectItemCount": 2
+                    }
+                ],
+                "areaTotal": 8762.84,
+                "areaProjectCount": 13,
+                "areaProjectItemCount": 28,
+                "estimatedAreaMeasurements": [
+                    {
+                        "formulaXREF": "BASEBOARD",
+                        "formulaXREFValue": 36
+                    },
+                    {
+                        "formulaXREF": "CEILINGS",
+                        "formulaXREFValue": 80
+                    },
+                    {
+                        "formulaXREF": "FLOOR",
+                        "formulaXREFValue": 80
+                    },
+                    {
+                        "formulaXREF": "WALLS",
+                        "formulaXREFValue": 288
+                    }
+                ]
+            }
+        ],
+        "estimateTotal": 35901.17,
+        "estimateProjectCount": 51,
+        "estimateProjectItemCount": 114,
+        "diyTotal": 18402.71
+    },
+    "adjustedAvm": {
+        "status": "failed"
+    }
+}

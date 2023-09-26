@@ -15,10 +15,11 @@ export const RenovationHeading = ({ title, subTitle, value = '' }: Props) => {
     return (
         <View
             style={tw(
-                'flex flex-col rounded-sm justify-center w-full items-center bg-foxy-normal-light-gray px-4 py-4'
+                'flex flex-col rounded-sm justify-center w-full items-center bg-foxy-normal-light-gray px-4 py-[25px]'
             )}
             wrap={false}
         >
+            <div className='py-'></div>
             <Text
                 style={{
                     ...tw('text-base leading-[18px] text-center'),

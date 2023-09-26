@@ -154,7 +154,6 @@ export const SubmitJSON = () => {
             fullJSONData?.avm?.status === 'completed' ||
             fullJSONData?.avm?.status === 'partial_failure'
         ) {
-            console.log(parseIndexData(fullJSONData));
             setGraphData(parseIndexData(fullJSONData));
             try {
                 setImage(await renderImage());

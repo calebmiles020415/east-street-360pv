@@ -11,6 +11,8 @@ import { RenovationAreaTable } from './';
 
 export const RenovationRepair = () => {
     const { jsonData } = useContext(DataContext!);
+    let restSize: number = 744;
+    const maxSize: number = 904;
     return (
         <View break>
             <Text
@@ -19,13 +21,13 @@ export const RenovationRepair = () => {
                     color: textColors['foxy-section-header']
                 }}
             >
-                Renovation Estimate
+                Repair Estimate
             </Text>
             <View style={tw('flex flex-row gap-4 mt-4')}>
                 <>
                     <View style={tw('w-1/2')}>
                         <RenovationHeading
-                            title="Cost of Renovation Estimate:"
+                            title="Cost of Repair Estimate:"
                             value={formatCurrency(
                                 jsonData?.renovation?.estimateTotal,
                                 jsonData?.avm?.valPro?.value
@@ -34,7 +36,7 @@ export const RenovationRepair = () => {
                     </View>
                     <View style={tw('w-1/2')}>
                         <RenovationHeading
-                            title="After Renovation Value:"
+                            title="After Repair Value:"
                             value={formatCurrency(
                                 jsonData?.adjustedAvm?.foxyValPro?.foxyRenovationValPro?.value,
                                 jsonData?.avm?.valPro?.value
@@ -43,7 +45,31 @@ export const RenovationRepair = () => {
                     </View>
                 </>
             </View>
-            <RenovationAreaTable renovationAreaData={jsonData?.renovation?.areas} />
+            {jsonData?.renovation?.areas?.map((tableData, index) => {
+                const currentTableSize = 85 + 40 * (tableData?.remodelProjects?.length || 0);
+                const nextTableSize =
+                    85 +
+                    40 * (jsonData?.renovation?.areas?.[index + 1]?.remodelProjects?.length || 0);
+                let marginBottomSize;
+                console.log('@@', restSize, currentTableSize);
+                restSize -= currentTableSize;
+                while (restSize <= 0) {
+                    restSize += maxSize;
+                }
+                console.log(restSize, nextTableSize);
+                if (nextTableSize + 50 <= restSize) {
+                    marginBottomSize = 50;
+                    restSize -= marginBottomSize;
+                } else {
+                    marginBottomSize = restSize;
+                    restSize = maxSize;
+                }
+                return (
+                    tableData.areaProjectCount && (
+                        <RenovationAreaTable repairData={tableData} mbSize={marginBottomSize} />
+                    )
+                );
+            })}
         </View>
     );
 };

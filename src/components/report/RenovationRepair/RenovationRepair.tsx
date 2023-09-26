@@ -8,11 +8,16 @@ import { RenovationHeading } from '../../../components/elements';
 import { formatCurrency } from '../../../lib/utils';
 import { DataContext } from '../../PDFDocument';
 import { RenovationAreaTable } from './';
+import { table } from 'console';
 
 export const RenovationRepair = () => {
     const { jsonData } = useContext(DataContext!);
     let restSize: number = 744;
     const maxSize: number = 904;
+    const normalTableMarginBottom: number = 50;
+
+    const getTableSize = (length: number) => 85 + 40 * length;
+
     return (
         <View break>
             <Text
@@ -46,19 +51,20 @@ export const RenovationRepair = () => {
                 </>
             </View>
             {jsonData?.renovation?.areas?.map((tableData, index) => {
-                const currentTableSize = 85 + 40 * (tableData?.remodelProjects?.length || 0);
-                const nextTableSize =
-                    85 +
-                    40 * (jsonData?.renovation?.areas?.[index + 1]?.remodelProjects?.length || 0);
+                const currentTableSize = getTableSize(
+                    jsonData?.renovation?.areas?.[index]?.remodelProjects.length
+                );
+                const nextTableSize = getTableSize(
+                    jsonData?.renovation?.areas?.[index + 1]?.remodelProjects.length
+                );
                 let marginBottomSize;
-                console.log('@@', restSize, currentTableSize);
                 restSize -= currentTableSize;
                 while (restSize <= 0) {
                     restSize += maxSize;
                 }
                 console.log(restSize, nextTableSize);
-                if (nextTableSize + 50 <= restSize) {
-                    marginBottomSize = 50;
+                if (nextTableSize + normalTableMarginBottom <= restSize) {
+                    marginBottomSize = normalTableMarginBottom;
                     restSize -= marginBottomSize;
                 } else {
                     marginBottomSize = restSize;
